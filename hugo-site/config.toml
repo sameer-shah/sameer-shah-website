@@ -20,9 +20,6 @@ languageCode = "en-us"
   imageWidth = 120
   imageHeight = 120
 
-[params.assets]
-  favicon = "/images/profile_pic.JPG"
-
 [[params.socialIcons]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/sameershah141/"
