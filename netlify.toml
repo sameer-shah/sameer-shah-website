@@ -1,7 +1,7 @@
 [build]
   base = "hugo-site"
   publish = "public"
-  command = "cp -r ../content-shared/* content/ && cp ../content-shared/Sameer_Shah_Profile_min.jpeg static/images/ && hugo"
+  command = "cp -r ../content-shared/* content/ && cp ../content-shared/profile_pic.JPG static/images/ && hugo"
 
 [context.production.environment]
   HUGO_VERSION = "0.146.0"
