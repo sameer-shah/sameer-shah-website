@@ -15,13 +15,13 @@ languageCode = "en-us"
   enabled = true
   title = "Sameer Shah"
   subtitle = "Data Scientist | Sports Enthusiast | Photographer"
-  imageUrl = "/images/Sameer_Shah_Profile_min.jpeg"
+  imageUrl = "/images/profile_pic.JPG"
   imageTitle = "Sameer Shah"
   imageWidth = 120
   imageHeight = 120
 
 [params.assets]
-  favicon = "/images/Sameer_Shah_Profile_min.jpeg"
+  favicon = "/images/profile_pic.JPG"
 
 [[params.socialIcons]]
     name = "LinkedIn"
@@ -56,7 +56,12 @@ languageCode = "en-us"
     url = "/photography/"
     weight = 4
   [[menu.main]]
+    identifier = "quotes"
+    name = "Quotes"
+    url = "/quotes/"
+    weight = 5
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 6

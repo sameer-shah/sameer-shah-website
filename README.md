@@ -1,3 +1,3 @@
 # sameer-shah-website
 
-Personal profile and other information
+My Personal Website
