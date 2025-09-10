@@ -26,6 +26,9 @@ languageCode = "en-us"
 [[params.socialIcons]]
     name = "Instagram"
     url = "https://www.instagram.com/pixels.by.sameer.shah/"
+[[params.socialIcons]]
+    name = "Email"
+    url = "mailto:sameerbipinshah@gmail.com"
 
 [markup]
   [markup.goldmark.renderer]
@@ -53,9 +56,9 @@ languageCode = "en-us"
     url = "/photography/"
     weight = 4
   [[menu.main]]
-    identifier = "tilr"
-    name = "TILR"
-    url = "/tilr/"
+    identifier = "til"
+    name = "TIL"
+    url = "/til/"
     weight = 5
   [[menu.main]]
     identifier = "quotes"
