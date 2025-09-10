@@ -1,4 +1,4 @@
-{{ $quotes := .Site.GetPage "/quotes" }}
-{{ $quote := index $quotes.Params.quotes (mod now.Unix (len $quotes.Params.quotes)) }}
+{{ $quotes := .Site.Data.quotes.quotes }}
+{{ $quote := index $quotes (mod now.Unix (len $quotes)) }}
 > "{{ $quote.text }}"
 > <small>{{ $quote.author }}</small>
