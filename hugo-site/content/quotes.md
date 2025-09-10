@@ -14,17 +14,3 @@ quotes:
   - text: "We are what we repeatedly do. Excellence, then, is not an act but a habit."
     author: "Aristotle"
 ---
-
-# Quote of the Day
-
-> "{{ .Params.quote_of_the_day.text }}"
->
-> <small>{{ .Params.quote_of_the_day.author }}</small>
-
-# All Quotes
-
-{{ range .Params.quotes }}
-> "{{ .text }}"
->
-> <small>{{ .author }}</small>
-{{ end }}
