@@ -1,7 +1,5 @@
 ## TILR (Today I Learned/Read)
 
-
-
 ### 2025-07-30
 
 I read an article on LinkdIn about GEPA: Reflective Prompt Evolution (Paper link - Reflective Prompt Evolution). 
