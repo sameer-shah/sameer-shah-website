@@ -1,5 +1,6 @@
 ---
 title: Quotes
+
 quote_of_the_day:
   text: "Our greatest ethical imperative is to create our own life's meaning, while protecting the freedom of others to do the same."
   author: "Existentialism"
