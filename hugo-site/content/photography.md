@@ -1,10 +1,16 @@
 ---
 title: "Photography"
-date: 2025-07-15
 ---
 
-I love photography and share my work on Instagram.
+I love photography and share my work on Instagram. I currently have two pages on Instagram 
 
-<iframe src="https://snapwidget.com/embed/1051232" title="Instagram Feed" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
+1. [pixels.by.sameer.shah](https://www.instagram.com/pixels.by.sameer.shah/)
 
-[See more on Instagram](https://www.instagram.com/pixels.by.sameer.shah/)
+<iframe src="https://www.instagram.com/pixels.by.sameer.shah/" title="Instagram Feed" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
+
+2. [foodtrail.by.samsan](https://www.instagram.com/foodtrail.by.samsan/)
+
+<iframe src="https://www.instagram.com/foodtrail.by.samsan/" title="Instagram Feed" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
+
+---
+

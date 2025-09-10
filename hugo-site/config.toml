@@ -17,8 +17,8 @@ languageCode = "en-us"
   subtitle = "Data Scientist | Sports Enthusiast | Photographer"
   imageUrl = "/images/profile_pic.JPG"
   imageTitle = "Sameer Shah"
-  imageWidth = 120
-  imageHeight = 120
+  imageWidth = 320
+  imageHeight = 320
 
 [[params.socialIcons]]
     name = "LinkedIn"
@@ -39,7 +39,7 @@ languageCode = "en-us"
     weight = 1
   [[menu.main]]
     identifier = "ds"
-    name = "Data Science"
+    name = "DS, ML & AI"
     url = "/ds/"
     weight = 2
   [[menu.main]]
@@ -53,12 +53,17 @@ languageCode = "en-us"
     url = "/photography/"
     weight = 4
   [[menu.main]]
+    identifier = "tilr"
+    name = "TILR"
+    url = "/tilr/"
+    weight = 5
+  [[menu.main]]
     identifier = "quotes"
     name = "Quotes"
     url = "/quotes/"
-    weight = 5
+    weight = 6
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 7
