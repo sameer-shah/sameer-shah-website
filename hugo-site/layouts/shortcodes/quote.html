@@ -1,4 +1,5 @@
 {{ $quotes := .Site.Data.quotes.quotes }}
 {{ $quote := index $quotes (mod now.Unix (len $quotes)) }}
-> "{{ $quote.text }}"
-> <small>{{ $quote.author }}</small>
+
+"{{ $quote.text }}"
+<small>{{ $quote.author }}</small>

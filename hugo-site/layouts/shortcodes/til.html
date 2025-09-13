@@ -1,5 +1,5 @@
 {{ range site.Data.til.til }}
-<p><b>{{ .date }}</b> - {{ .title }}</p>
+<p><h4>{{ .title }}</h4> - {{ .date }}</p>
 <div>{{ .content | markdownify }}</div>
-<br>
+<hr>
 {{ end }}

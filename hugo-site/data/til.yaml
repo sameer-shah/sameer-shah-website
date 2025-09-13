@@ -1,4 +1,12 @@
 til:
+  - date: "2025-08-03"
+    title: "Trends - Artificial Intelligence"
+    content: "
+      I finally finished reading this detailed report titled []'Trends - Artificial Intelligence'](https://www.bondcap.com/report/tai/#view/0), written by 'Bond' in May 2025.
+      The report shares a ton of data about AI trends, details the ongoing changes in various industries, and compares the ongoing AI revolution with the Internet revolution. It is a great read.
+      What fascinated me the most was the parallels and common themes across various revolutions in the past two centuries. Every major technological revolution has followed a familiar arc: it commoditizes a key economic input, boosts productivity of specific activities, and shifts value further away from generalists toward specialists.
+      More to follow.
+
   - date: "2025-07-30"
     title: "Reflective Prompt Evolution (GEPA)"
     content: |
@@ -14,10 +22,5 @@ til:
       | Objective           | Guide model in real time, reduce errors in generation | Optimize prompts/instructions for better overall performance |
       | Human Involvement   | Often minimal or automated    | Leverages LLM-generated natural language reflection (which could be human-readable/interpretable) |
       | Example Application | Theorem proving, code synthesis | Compound LLM systems (multi-hop QA, instruction following, modular pipelines) |
-  - date: "2025-08-03"
-    title: "Another TIL Entry"
-    content: "Details about another TIL entry."
-  - date: "2025-08-03"
-    title: "Another TIL Entry"
-    content: "Details about another TIL entry."
+
 
