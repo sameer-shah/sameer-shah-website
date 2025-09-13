@@ -1,0 +1,16 @@
+{{ $randomQuote := index (shuffle site.Data.quotes.quotes) 0 }}
+<h2>Random Quote</h2>
+<blockquote>
+  <p>"{{ $randomQuote.text }}"</p>
+  <footer>- {{ $randomQuote.author | default "Unknown" }}</footer>
+</blockquote>
+
+<hr>
+
+<h2>All Quotes</h2>
+{{ range site.Data.quotes.quotes }}
+<blockquote>
+  <p>"{{ .text }}"</p>
+  <footer>- {{ .author | default "Unknown" }}</footer>
+</blockquote>
+{{ end }}

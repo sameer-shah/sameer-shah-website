@@ -1,0 +1,5 @@
+{{ range site.Data.til.til }}
+<p><b>{{ .date }}</b> - {{ .title }}</p>
+<div>{{ .content | markdownify }}</div>
+<br>
+{{ end }}
